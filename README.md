@@ -1,4 +1,4 @@
-# Puissance 4 — Neon Noir
+# Puissance 4
 
 Un jeu de Puissance 4 jouable dans le navigateur : **2 joueurs** ou **contre une IA** (minimax), avec un classement, des effets sonores synthétisés et un **commentaire des coups en direct**. Le tout dans un seul fichier HTML, sans build ni dépendance.
 
