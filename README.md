@@ -71,3 +71,5 @@ node tests/game.test.js
 ## 🛠️ Stack
 
 JavaScript vanilla · Web Audio API · `localStorage` · aucun framework, aucun outil de build.
+
+## **=> Développé avec IA (Claude Sonnet 4.6 / Opus 4.8) pour le cours "IA pour le dev".**
